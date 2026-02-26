@@ -8,27 +8,21 @@ Es muy sencillo, solo necesitas seguir los siguientes pasos:
 * Comienza a correr la aplicación en tu programa (¡está programado en IntelliJ IDEA! Pero puedes utilizar el programa de tu preferencia de funcionamiento similar).
 * Aparecerá el menú en la consola. Puedes escoger la opción de tu preferencia escribiendo el número en la consola.
   
-   ![imagen]()  
+   ![imagen](https://i.imgur.com/6kGC28l.png)  
 
-* Con la opción 1 podrás registrar libros de tu preferencia en la biblioteca.
-  
-   ![imagen]()
+* Con la ```opción 1``` podrás registrar libros de tu preferencia en la biblioteca.
 
 
-* ¿Ya añadiste todos? ¡Ahora prueba buscar la lista entera de libros con la opción 2!
-
-   ![imagen]()
-
-* Con la opción número 3 podrás ver los autores que ya registraste, y con la opción 4 puedes buscarlos por fecha en la que estuvieron vivos.
-
- ![imagen]()  
+* ¿Ya añadiste todos? ¡Ahora prueba buscar la lista entera de libros con la ```opción 2```!
 
 
-* ¿No hablas todos los idiomas? Con la opción 5 podrás buscar los libros registrados del idioma de tu preferencia.
+* Con la ```opción número 3``` podrás ver los autores que ya registraste, y con la ```opción 4``` puedes buscarlos por fecha en la que estuvieron vivos.
+ 
 
-![imagen]()  
+* ¿No hablas todos los idiomas? Con la ```opción 5``` podrás buscar los libros registrados del idioma de tu preferencia.
 
 
  ### ¡Diviertete probando con distintos libros y autores!
 
 ``` Hecho por menabizz. ```
+
